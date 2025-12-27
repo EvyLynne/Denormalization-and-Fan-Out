@@ -1,5 +1,4 @@
-<b>Purpose of this repo: </b>Provide tools to get skills in querying denormalized data vs. normalized data  <br>
-<b>Sources:  </b>I created these files from this information on Denormalization published by Geeks for Geeks https://www.geeksforgeeks.org/dbms/denormalization-in-databases/  <br>
+<b>Purpose of this repo: </b>Provide tutorials and tools to get skills in querying denormalized data vs. normalized data for the purpose of avoiding fan out and aggregation errors.  <br>
 As of the date of this writing: Last Updated : 27 Oct, 2025 <br>
 I added additional data to the dbo.Subject table and to the Denormalized_Blob table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
 <b>Instructions for use: </b>
