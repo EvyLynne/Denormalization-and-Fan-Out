@@ -2,7 +2,7 @@
 USE [Denormalization]
 GO
 
-/****** Object:  Table [dbo].[Classes]    Script Date: 12/2/2025 10:40:11 AM ******/
+/****** Object:  Table [dbo].[Classes_Geeks_For_Geeks]    Script Date: 12/2/2025 10:40:11 AM ******/
 SET ANSI_NULLS ON
 GO
 
