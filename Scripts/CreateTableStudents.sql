@@ -1,8 +1,9 @@
 -- create table Students
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
 USE [Denormalization]
 GO
 
-/****** Object:  Table [dbo].[Students]    Script Date: 12/2/2025 10:44:48 AM ******/
+/****** Object:  Table [dbo].[Students_Geeks_For_Geeks]    Script Date: 12/2/2025 10:44:48 AM ******/
 SET ANSI_NULLS ON
 GO
 
