@@ -1,4 +1,5 @@
 -- create table dbo.Classes
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
 USE [Denormalization]
 GO
 
