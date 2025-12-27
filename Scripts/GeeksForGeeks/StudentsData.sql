@@ -1,3 +1,5 @@
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
+
 USE [Denormalization]
 GO
 
