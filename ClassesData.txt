@@ -1,3 +1,0 @@
-ClassID,ClassName,TeacherName
-C101,Math,Ms. Smith
-C102,Science,Mrs. Johnson
