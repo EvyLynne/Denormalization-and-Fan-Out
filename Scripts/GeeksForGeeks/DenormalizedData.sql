@@ -1,3 +1,6 @@
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
+-- Initial data is from Geeks For Geeks.  I added additional rows for more robust data set for practice.
+
 USE [Denormalization]
 GO
 
