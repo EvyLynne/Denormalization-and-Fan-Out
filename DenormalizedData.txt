@@ -1,7 +1,0 @@
-StudentID,StudentName,ClassName,TeacherName,Subject
-1	Alice,Math,Mr.Smith,Algebra
-1	Alice,Math,Mr.Smith,Geometry
-2	Bob,Science,Mrs.Johnson,Physics
-2	Bob,Science,Mrs.Johnson,Chemistry
-1	Alice,Math,Ms. Smith,Trigonometry
-1	Alice,Math,Ms. Smith,Calculus
