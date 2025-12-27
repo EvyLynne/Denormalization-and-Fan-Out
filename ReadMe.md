@@ -1,5 +1,5 @@
 <b>Purpose of this repo: </b>Provide tools to get skills in querying denormalized data vs. normalized data  <br>
-<b>Source:  </b>I created these files from this information on Denormalization published by Geeks for Geeks https://www.geeksforgeeks.org/dbms/denormalization-in-databases/  <br>
+<b>Sources:  </b>I created these files from this information on Denormalization published by Geeks for Geeks https://www.geeksforgeeks.org/dbms/denormalization-in-databases/  <br>
 As of the date of this writing: Last Updated : 27 Oct, 2025 <br>
 I added additional data to the dbo.Subject table and to the Denormalized_Blob table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
 <b>Instructions for use: </b>
@@ -11,6 +11,16 @@ I added additional data to the dbo.Subject table and to the Denormalized_Blob ta
       <li>Query both tables to count the number of subjects each teacher teaches or each student takes</li>
       <li>This should demoonstrate the problem with aggregation over denormalized data</li>      
     </ol>
-
+<b>References:</b> 
+<ol>
+      <li>https://www.geeksforgeeks.org/dbms/denormalization-in-databases/</li>
+      <li>https://koushik-dutta.medium.com/avoiding-pitfalls-a-guide-to-sql-traps-and-how-to-solve-them-acdc3a95c74f </li>
+      <li>https://discuss.google.dev/t/the-problem-of-sql-fanouts/119220</li>
+      <li>https://help.whaly.io/misc/sql-fanout</li>
+      <li>https://docs.holistics.io/docs/faqs/fan-out-issue</li>
+      <li>https://www.linkedin.com/posts/trucklos_lets-talk-about-fanout-in-sql-fanout-is-activity-7128007252753448960-D1M7/</li>      
+      <li>https://quickstarts.sigmacomputing.com/guide/tables_fan_traps/index.html#0</li>
+      <li>https://discuss.google.dev/t/what-is-a-fanout/120987</li>
+    </ol>
 
 
