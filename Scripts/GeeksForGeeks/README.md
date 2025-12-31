@@ -21,9 +21,8 @@ I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-i
       <li>This should demonstrate the problem with aggregation over denormalized data</li>      
     </ol>
 
-Scripts:
 <table>
-        <caption>Procedure</caption>
+        <caption>Scripts</caption>
         <thead>
             <tr>
                 <th>Step</th>
