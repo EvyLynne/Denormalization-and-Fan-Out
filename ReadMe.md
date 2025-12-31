@@ -15,7 +15,6 @@ As of the date of this writing: Last Updated : 27 Oct, 2025 <br>
 
 <ol>
       <li>https://discuss.google.dev/t/the-problem-of-sql-fanouts/119220  (This article assumes Looker use.  Looker is Google's Business Intellgience Visualization software similiar to Microsoft's Power BI)</li>
-      <li>https://discuss.google.dev/t/aggregate-functions-gone-bad-and-the-joins-who-made-them-that-way/119568</li>
       <li>https://discuss.google.dev/t/outer-join-on-false-or-how-i-learned-to-stop-fanning-out-and-love-the-null/114301</li>
       <li>https://help.whaly.io/misc/sql-fanout</li>
       <li>https://docs.holistics.io/docs/faqs/fan-out-issue</li>
