@@ -1,3 +1,4 @@
+👷🏻‍♀️⚠️This repo is still under construction 📏🏗👷‍♀️🧱🦺 <br>
 This folder contains the artifacts to set up a Sql Server Database using Sql Server Management Studio to practice denormalized queries and fan out.<br>
 <ol>
  <li>The Folder labelled "GeeksForGeeks" contains the artifacts from Geeks For Geeks article, "Denormalization in Databases" Last Updated : 27 Oct, 2025, URL: https://www.geeksforgeeks.org/dbms/denormalization-in-databases/. <br> </li>
