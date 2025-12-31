@@ -1,3 +1,4 @@
+👷🏻‍♀️⚠️This repo is still under construction 📏🏗👷‍♀️🧱🦺 <br>
 <b>Purpose of this repo: </b>Provide tutorials and tools to get skills in querying denormalized data vs. normalized data for the purpose of avoiding fan out and aggregation errors.  <br>
 Last Updated : 31 Dec, 2025 <br>
  
